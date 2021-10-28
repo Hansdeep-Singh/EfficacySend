@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "EfficacySend/1.0.0": {
+      "EfficacySend/1.0.1": {
         "dependencies": {
           "HtmlAgilityPack": "1.11.37",
           "SendGrid": "9.24.4"
@@ -391,7 +391,7 @@
     }
   },
   "libraries": {
-    "EfficacySend/1.0.0": {
+    "EfficacySend/1.0.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
