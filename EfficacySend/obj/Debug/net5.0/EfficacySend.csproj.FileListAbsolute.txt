@@ -1,0 +1,12 @@
+C:\Users\Hansdeep\Documents\New Projects\EfficacySend\EfficacySend\bin\Debug\net5.0\EfficacySend.deps.json
+C:\Users\Hansdeep\Documents\New Projects\EfficacySend\EfficacySend\bin\Debug\net5.0\EfficacySend.dll
+C:\Users\Hansdeep\Documents\New Projects\EfficacySend\EfficacySend\bin\Debug\net5.0\ref\EfficacySend.dll
+C:\Users\Hansdeep\Documents\New Projects\EfficacySend\EfficacySend\bin\Debug\net5.0\EfficacySend.pdb
+C:\Users\Hansdeep\Documents\New Projects\EfficacySend\EfficacySend\obj\Debug\net5.0\EfficacySend.csproj.AssemblyReference.cache
+C:\Users\Hansdeep\Documents\New Projects\EfficacySend\EfficacySend\obj\Debug\net5.0\EfficacySend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hansdeep\Documents\New Projects\EfficacySend\EfficacySend\obj\Debug\net5.0\EfficacySend.AssemblyInfoInputs.cache
+C:\Users\Hansdeep\Documents\New Projects\EfficacySend\EfficacySend\obj\Debug\net5.0\EfficacySend.AssemblyInfo.cs
+C:\Users\Hansdeep\Documents\New Projects\EfficacySend\EfficacySend\obj\Debug\net5.0\EfficacySend.csproj.CoreCompileInputs.cache
+C:\Users\Hansdeep\Documents\New Projects\EfficacySend\EfficacySend\obj\Debug\net5.0\EfficacySend.dll
+C:\Users\Hansdeep\Documents\New Projects\EfficacySend\EfficacySend\obj\Debug\net5.0\ref\EfficacySend.dll
+C:\Users\Hansdeep\Documents\New Projects\EfficacySend\EfficacySend\obj\Debug\net5.0\EfficacySend.pdb

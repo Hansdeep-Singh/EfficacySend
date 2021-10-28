@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EfficacySend</id>
+    <version>1.0.0</version>
+    <authors>EfficacySend</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="HtmlAgilityPack" version="1.11.37" exclude="Build,Analyzers" />
+        <dependency id="SendGrid" version="9.24.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Hansdeep\Documents\New Projects\EfficacySend\EfficacySend\bin\Debug\net5.0\EfficacySend.dll" target="lib\net5.0\EfficacySend.dll" />
+  </files>
+</package>
